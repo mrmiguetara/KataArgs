@@ -17,3 +17,10 @@ CaseWithPortReturnsTrue() : void   1
 ARGS()	1
 main(string[]) : void	7
 Main(string[]) : void	1
+
+# V1 Cyclomatic Complexity
+ARGS()	1
+main(string[]) : void	2
+Main(string[]) : void	1
+SeeDirectory(string[]) : void	4
+SeePort(string[]) : void	4
